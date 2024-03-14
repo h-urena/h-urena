@@ -8,7 +8,8 @@ This is a little info about myself:
       Location: "Costa Rica",
 
       Interests: [
-          "Data Visualization",
+          "AI",
+          "Data Manipulation / Visualization",
           "Machine Learning",
           "Software Development",
       ],
@@ -40,6 +41,7 @@ This is a little info about myself:
               "WCF",
           ],
           Tech_Stack: [
+              "AngularJS",
               "Bootstrap",
               "C#",
               "CSS / CSS3",
