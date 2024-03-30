@@ -10,6 +10,7 @@ This is a little info about myself:
       Interests: [
           "AI",
           "Data Manipulation / Visualization",
+          "DevOps",
           "Machine Learning",
           "Software Development",
       ],
