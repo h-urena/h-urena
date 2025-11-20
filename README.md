@@ -2,39 +2,44 @@
 
 This is a little info about myself:
 
-Senior Software Engineer with **17+ years** of experience delivering business-driven .NET solutions across enterprise and cloud environments. I specialize in the **full software development lifecycle**, mentoring peers, driving cross-functional collaboration, and aligning technical design with strategic goals.
+Senior Software Engineer with **17+ years** of experience delivering resilient enterprise solutions. Deep expertise in designing secure, scalable, and compliant architectures and cloud solutions that drive measurable business impact. Commited to mentoring peers, fostering growth, driving cross-functional collaboration, and aligning technical design with strategic goals. 
 
-Recently, I’ve been focused on integrating AI-powered tools to streamline workflows and quantify business outcomes—while keeping human-centered decision-making at the core. I'm passionate about building scalable cloud-based solutions, fostering growth, and delivering measurable impact.
+Currently focused on cloud-native migrations in the healthcare industry, integrating AI-powered tools to streamline workflows and improve outcomes while ensuring full observability, compliance, and human-centered decision-making.
 
 ---
 
 ```python
 me = SoftwareEngineer(
     name="Herberth Ureña Ballestero",
-    experience_level="senior",
+    experience_level="Senior",
     location="Costa Rica",
-    focus="cloud and AI-driven solutions",
+    focus="Cloud and AI-driven Solutions",
 
     interests= [
-        "AI and machine learning",
-        "mentoring and leadership",
-        "system design"
+        "AI and Machine Learning",
+        "Mentoring and Leadership",
+        "System Design"
     ],
 
     people_skills= [
-        "business-driven problem solving",
-        "clear communication and documentation",
-        "cross-functional collaboration",
-        "technical guidance and mentorship"
+        "Business-driven problem solving",
+        "Clear communication and documentation",
+        "Cross-functional collaboration",
+        "Technical guidance and mentorship"
     ],
     
     tech_skills= TechSkills(
         sdlc= [
-            "agile and scrum",
+            "Agile and Scrum",
             "CI/CD",
-            "design patterns",
+            "Design Patterns",
+            "Monitoring",
             "OOP",
-            "TDD"
+            "Optimization",
+            "Requirements",
+            "Scripting",
+            "TDD",
+            "Troubleshooting"
         ],
         frameworks_and_platforms= [
             ".NET",
@@ -54,6 +59,7 @@ me = SoftwareEngineer(
             "JavaScript",
             "KafkaJs",
             "PowerShell",
+            "Python",
             "React",
             "SQL / T-SQL",
             "TypeScript"
