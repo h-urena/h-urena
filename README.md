@@ -83,6 +83,6 @@ me = SoftwareEngineer(
 
 ## 💻 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h-urena&show_icons=true&theme=radical)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h-urena&layout=compact&theme=radical)
+![Top Languages](./profile/top-languages.svg)
