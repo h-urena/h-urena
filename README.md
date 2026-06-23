@@ -51,15 +51,15 @@ me = SoftwareEngineer(
             "gRPC, RESTful APIs",
             "Node.js, TypeScript"
         ],
-        security_and_compliance= [
-            "Authentication and authorization (IAM, OAuth2, JWT)",
-            "FDA/EU, HIPAA",
-            "Secure system design"
-        ],
         integration_and_data= [
             "Publish-subscribe pattern (KafkaJS)",
             "CDC and ETL migrations, message-event brokers",
             "SQL / NoSQL (Document, Key-Value, Object Storage)"
+        ],
+        security_and_compliance= [
+            "Authentication and authorization (IAM, OAuth2, JWT)",
+            "FDA/EU, HIPAA",
+            "Secure system design"
         ]
     )
 )
