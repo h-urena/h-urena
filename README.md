@@ -21,80 +21,49 @@ me = SoftwareEngineer(
         "System Design"
     ],
 
-    people_skills= [
-        "Business-driven problem solving",
-        "Clear communication and documentation",
-        "Cross-functional collaboration",
-        "Technical guidance and mentorship"
-    ]
+    skills= Skills(
+        architecture_and_software_engineering= [
+            "API and systems design",
+            "API governance and middleware contracts",
+            "Distributed systems, event-driven architectures, and microservices",
+            "Scalability, reliability, and observability"
+        ],
+        cloud_and_devops= [
+            "Amazon Web Services (AWS), Azure",
+            "Infrastructure-as-Code: CDK, CloudFormation",
+            "CI/CD (GitHub Actions, Jenkins)",
+            "Containerization and orchestration (Docker, ECS)",
+            "Monitoring and observability (Azure Monitor, Application Insights, Datadog)"
+        ],
+        delivery_and_leadership= [
+            "Agile delivery, SDLC ownership",
+            "AI and automation: agentic workflows, AI-assisted engineering, and LLM orchestration",
+            "Architectural decision records and documentation",
+            "Business-driven problem solving",
+            "Clear communication and documentation",
+            "Cross-functional collaboration",
+            "Technical leadership and mentorship"
+        ],
+        frameworks_and_languages= [
+            "Angular, React",
+            "ASP.NET, C#, .NET Core",
+            "Boto3, Python",
+            "gRPC, RESTful APIs",
+            "Node.js, TypeScript"
+        ],
+        security_and_compliance= [
+            "Authentication and authorization (IAM, OAuth2, JWT)",
+            "FDA/EU, HIPAA",
+            "Secure system design"
+        ],
+        integration_and_data= [
+            "Publish-subscribe pattern (KafkaJS)",
+            "CDC and ETL migrations, message-event brokers",
+            "SQL / NoSQL (Document, Key-Value, Object Storage)"
+        ]
+    )
 )
 ```
-
-## 🛠️ Skills
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <b>ARCHITECTURE AND SOFTWARE ENGINEERING</b>
-      <ul>
-        <li>API and systems design</li>
-        <li>API governance and middleware contracts</li>
-        <li>Distributed systems, event-driven architectures, and microservices</li>
-        <li>Scalability, reliability, and observability</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <b>CLOUD AND DEVOPS</b>
-      <ul>
-        <li>Amazon Web Services (AWS), Azure</li>
-        <li>Infrastructure-as-Code: CDK, CloudFormation</li>
-        <li>CI/CD (GitHub Actions, Jenkins)</li>
-        <li>Containerization and orchestration (Docker, ECS)</li>
-        <li>Monitoring and observability (Azure Monitor, Application Insights, Datadog)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <b>DELIVERY AND LEADERSHIP</b>
-      <ul>
-        <li>Agile delivery, SDLC ownership</li>
-        <li>AI and automation: agentic workflows, AI-assisted engineering, and LLM orchestration</li>
-        <li>Architectural decision records and documentation</li>
-        <li>Cross-functional collaboration</li>
-        <li>Technical leadership and mentorship</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <b>FRAMEWORKS AND LANGUAGES</b>
-      <ul>
-        <li>Angular, React</li>
-        <li>ASP.NET, C#, .NET Core</li>
-        <li>Boto3, Python</li>
-        <li>gRPC, RESTful APIs</li>
-        <li>Node.js, TypeScript</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <b>SECURITY AND COMPLIANCE</b>
-      <ul>
-        <li>Authentication and authorization (IAM, OAuth2, JWT)</li>
-        <li>FDA/EU, HIPAA</li>
-        <li>Secure system design</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <b>INTEGRATION AND DATA</b>
-      <ul>
-        <li>Publish-subscribe pattern (KafkaJS)</li>
-        <li>CDC and ETL migrations, message-event brokers</li>
-        <li>SQL / NoSQL (Document, Key-Value, Object Storage)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ## 🏅 Latest Certifications
 
