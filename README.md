@@ -26,53 +26,75 @@ me = SoftwareEngineer(
         "Clear communication and documentation",
         "Cross-functional collaboration",
         "Technical guidance and mentorship"
-    ],
-    
-    tech_skills= TechSkills(
-        sdlc= [
-            "Agile and Scrum",
-            "CI/CD",
-            "Design Patterns",
-            "Monitoring",
-            "OOP",
-            "Optimization",
-            "Requirements",
-            "Scripting",
-            "TDD",
-            "Troubleshooting"
-        ],
-        frameworks_and_platforms= [
-            ".NET",
-            "Amazon Web Services",
-            "ASP.NET MVC",
-            "Azure (App Services, Monitor)",
-            "Docker",
-            "Entity Framework CF",
-            "Node.js",
-            "RESTful APIs"
-        ],
-        tech_stack= [
-            "Angular",
-            "C#",
-            "CSS / SCSS",
-            "HTML5",
-            "JavaScript",
-            "KafkaJs",
-            "PowerShell",
-            "Python",
-            "React",
-            "SQL / T-SQL",
-            "TypeScript"
-        ],
-        tools= [
-            "Azure DevOps",
-            "Git",
-            "TeamCity",
-            "Octopus"
-        ]
-    )
+    ]
 )
 ```
+
+## 🛠️ Skills
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>ARCHITECTURE AND SOFTWARE ENGINEERING</b>
+      <ul>
+        <li>API and systems design</li>
+        <li>API governance and middleware contracts</li>
+        <li>Distributed systems, event-driven architectures, and microservices</li>
+        <li>Scalability, reliability, and observability</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <b>CLOUD AND DEVOPS</b>
+      <ul>
+        <li>Amazon Web Services (AWS), Azure</li>
+        <li>Infrastructure-as-Code: CDK, CloudFormation</li>
+        <li>CI/CD (GitHub Actions, Jenkins)</li>
+        <li>Containerization and orchestration (Docker, ECS)</li>
+        <li>Monitoring and observability (Azure Monitor, Application Insights, Datadog)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b>DELIVERY AND LEADERSHIP</b>
+      <ul>
+        <li>Agile delivery, SDLC ownership</li>
+        <li>AI and automation: agentic workflows, AI-assisted engineering, and LLM orchestration</li>
+        <li>Architectural decision records and documentation</li>
+        <li>Cross-functional collaboration</li>
+        <li>Technical leadership and mentorship</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <b>FRAMEWORKS AND LANGUAGES</b>
+      <ul>
+        <li>Angular, React</li>
+        <li>ASP.NET, C#, .NET Core</li>
+        <li>Boto3, Python</li>
+        <li>gRPC, RESTful APIs</li>
+        <li>Node.js, TypeScript</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b>SECURITY AND COMPLIANCE</b>
+      <ul>
+        <li>Authentication and authorization (IAM, OAuth2, JWT)</li>
+        <li>FDA/EU, HIPAA</li>
+        <li>Secure system design</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <b>INTEGRATION AND DATA</b>
+      <ul>
+        <li>Publish-subscribe pattern (KafkaJS)</li>
+        <li>CDC and ETL migrations, message-event brokers</li>
+        <li>SQL / NoSQL (Document, Key-Value, Object Storage)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🏅 Latest Certifications
 
