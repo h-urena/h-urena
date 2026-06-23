@@ -21,54 +21,45 @@ me = SoftwareEngineer(
         "System Design"
     ],
 
-    people_skills= [
-        "Business-driven problem solving",
-        "Clear communication and documentation",
-        "Cross-functional collaboration",
-        "Technical guidance and mentorship"
-    ],
-    
-    tech_skills= TechSkills(
-        sdlc= [
-            "Agile and Scrum",
-            "CI/CD",
-            "Design Patterns",
-            "Monitoring",
-            "OOP",
-            "Optimization",
-            "Requirements",
-            "Scripting",
-            "TDD",
-            "Troubleshooting"
+    skills= Skills(
+        architecture_and_software_engineering= [
+            "API and systems design",
+            "API governance and middleware contracts",
+            "Distributed systems, event-driven architectures, and microservices",
+            "Scalability, reliability, and observability"
         ],
-        frameworks_and_platforms= [
-            ".NET",
-            "Amazon Web Services",
-            "ASP.NET MVC",
-            "Azure (App Services, Monitor)",
-            "Docker",
-            "Entity Framework CF",
-            "Node.js",
-            "RESTful APIs"
+        cloud_and_devops= [
+            "Amazon Web Services (AWS), Azure",
+            "Infrastructure-as-Code: CDK, CloudFormation",
+            "CI/CD (GitHub Actions, Jenkins)",
+            "Containerization and orchestration (Docker, ECS)",
+            "Monitoring and observability (Azure Monitor, Application Insights, Datadog)"
         ],
-        tech_stack= [
-            "Angular",
-            "C#",
-            "CSS / SCSS",
-            "HTML5",
-            "JavaScript",
-            "KafkaJs",
-            "PowerShell",
-            "Python",
-            "React",
-            "SQL / T-SQL",
-            "TypeScript"
+        delivery_and_leadership= [
+            "Agile delivery, SDLC ownership",
+            "AI and automation: agentic workflows, AI-assisted engineering, and LLM orchestration",
+            "Architectural decision records and documentation",
+            "Business-driven problem solving",
+            "Clear communication and documentation",
+            "Cross-functional collaboration",
+            "Technical leadership and mentorship"
         ],
-        tools= [
-            "Azure DevOps",
-            "Git",
-            "TeamCity",
-            "Octopus"
+        frameworks_and_languages= [
+            "Angular, React",
+            "ASP.NET, C#, .NET Core",
+            "Boto3, Python",
+            "gRPC, RESTful APIs",
+            "Node.js, TypeScript"
+        ],
+        integration_and_data= [
+            "Publish-subscribe pattern (KafkaJS)",
+            "CDC and ETL migrations, message-event brokers",
+            "SQL / NoSQL (Document, Key-Value, Object Storage)"
+        ],
+        security_and_compliance= [
+            "Authentication and authorization (IAM, OAuth2, JWT)",
+            "FDA/EU, HIPAA",
+            "Secure system design"
         ]
     )
 )
