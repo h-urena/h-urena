@@ -2,9 +2,9 @@
 
 This is a little info about myself:
 
-Senior Software Engineer with **18+ years** of experience designing and delivering secure, scalable, and compliant cloud platforms in regulated environments. Proven track record of driving measurable business impact through cloud‑native architectures, AI‑enabled automation, and operational excellence. Strong advocate for mentorship, cross‑functional collaboration, and aligning technical decisions with organizational goals.
+I am a Staff-level Engineer with an **18-year** evolution from medical-device firmware to leading large-scale AWS and Azure cloud migrations across FinTech, Retail, and Healthcare. I specialize in robust system design, building secure, compliant architectures rooted in industry best practices.
 
-Currently focused on healthcare cloud migrations, integrating AI‑powered tooling to streamline workflows while ensuring full observability, regulatory compliance, and human‑centered decision‑making.
+I also am deeply invested in mentoring high-performing teams, collaborating with stakeholders to turn complex requirements into business-aligned solutions, while embracing a lifelong learner mindset.
 
 ---
 
